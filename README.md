@@ -27,7 +27,7 @@ npm install
 7. Start the server by executing:
 npm run start
 
-8. Open your web browser and visit [http://localhost:3000/](http://localhost:3000/) to access JATE and start using it.
+8. Open your web browser and visit [http://localhost:3001/](http://localhost:3001/) to access JATE and start using it.
 
 ## Usage
 
@@ -58,3 +58,7 @@ JATE is released under the [MIT License](LICENSE).
 If you have any questions, suggestions, or feedback, feel free to contact the project maintainer, [Strait2thePoint](https://github.com/Strait2thePoint).
 
 Happy editing with JATE!
+
+
+## Citations:
+I worked with Anuja Lawankar to complete this project.
